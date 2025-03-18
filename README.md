@@ -89,7 +89,7 @@ The Streamlit app integrates 15 SQL queries addressing the following:
 15. Category contributing the highest percentage of total spending.
 
 ## Screenshots
-*(Include screenshots of your Streamlit dashboard showcasing key visualizations and insights here.)*
+*Included Under Screenshot-ExpenseTracker folder*
 
 ## Conclusion
 This project demonstrates how to simulate, process, and analyze personal expense data using Python, SQL, and Streamlit. The interactive dashboard provides a comprehensive view of spending habits and actionable insights to help manage finances effectively.
