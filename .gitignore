@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+env/
+
+# Ignore IntelliJ project files
+.idea/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
