@@ -89,7 +89,19 @@ The Streamlit app integrates 15 SQL queries addressing the following:
 15. Category contributing the highest percentage of total spending.
 
 ## Screenshots
-*Included Under Screenshot-ExpenseTracker folder*
+
+![Screenshot 2025-03-18 at 10.35.27 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.35.27%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.35.35 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.35.35%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.35.45 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.35.45%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.35.51 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.35.51%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.35.55 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.35.55%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.35.59 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.35.59%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.36.04 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.36.04%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.36.09 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.36.09%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.36.13 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.36.13%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.36.17 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.36.17%E2%80%AFPM.png)
+![Screenshot 2025-03-18 at 10.36.23 PM.png](Screenshot-ExpenseTracker/Screenshot%202025-03-18%20at%2010.36.23%E2%80%AFPM.png)
+
 
 ## Conclusion
 This project demonstrates how to simulate, process, and analyze personal expense data using Python, SQL, and Streamlit. The interactive dashboard provides a comprehensive view of spending habits and actionable insights to help manage finances effectively.
